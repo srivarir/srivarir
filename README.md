@@ -40,8 +40,9 @@ Also into: **IoT**, **3D modeling**, and **game development** 🎮
 
 ## 📊 GitHub Stats
 
-![Srivari's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivarir&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivarir&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srivarir&theme=github_dark" alt="Profile summary" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srivarir&theme=github_dark" alt="Top languages" width="49%" /> <img src="https://streak-stats.demolab.com?user=srivarir&theme=dark&hide_border=true" alt="GitHub streak" width="49%" />
 
 ## 📫 How to reach me
 
