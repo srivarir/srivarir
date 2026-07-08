@@ -1,7 +1,5 @@
 # Hey, I'm Srivari 👋
 
-> Hey, I write code. Sometimes it works XD
-
 I'm a Computer Science undergrad at Easwari Engineering College (Class of 2029), passionate about **AI/ML** and building things that solve real problems — from legal contract analyzers to waste classifiers.
 
 
@@ -37,12 +35,6 @@ I'm a Computer Science undergrad at Easwari Engineering College (Class of 2029),
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 Also into: **IoT**, **3D modeling**, and **game development** 🎮
-
-## 📊 GitHub Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srivarir&theme=github_dark" alt="Profile summary" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srivarir&theme=github_dark" alt="Top languages" width="49%" /> <img src="https://streak-stats.demolab.com?user=srivarir&theme=dark&hide_border=true" alt="GitHub streak" width="49%" />
 
 ## 📫 How to reach me
 
